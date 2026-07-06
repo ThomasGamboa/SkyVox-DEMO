@@ -1,6 +1,6 @@
 # SkyVox-DEMO
 SkyVox Webgl DEMO
-Copyright (c) 2026 [Tu Nombre]
+Copyright (c) 2026 Thomas Gamboa
 
 All Rights Reserved.
 
